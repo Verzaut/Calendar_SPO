@@ -31,7 +31,7 @@ export default function ProfilePage() {
       try {
         const mockUser = {
           username: '',
-          email: '',
+          email: '',  
           avatar: '',
         }
         setUser(mockUser)
